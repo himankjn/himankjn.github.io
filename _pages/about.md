@@ -12,15 +12,15 @@ header:
     - label: "Linkedin"
       url: "https://www.linkedin.com/in/himankjn/"
   caption: "Photo : [**Instagram**](https://www.instagram.com/himank_jn)"
-excerpt: "Not Just Another Boy Next Door"
+excerpt: "Not Just Another Guy Next Door"
 intro:
-  - excerpt: '* I always thought someone needs to step up. Then i realised, I am Someone!'
+  - excerpt: ' I always thought someone needs to step up. Then i realised, I am Someone!'
 feature_row:
   - image_path: /images/firstyear.jpg
     excerpt: "B-tech Sem I"
   - image_path: /images/me.jpg
     image_caption: "[Insta](https://unsplash.com/)"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "PC:[Arjun Singh](https://www.instagram.com/arjun_ooo)"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
