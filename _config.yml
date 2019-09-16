@@ -111,15 +111,16 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Bangalore, Karnataka"
+  email            : "himank369123@gmail.com"
   github	   : "himankjn"
-  email            :
+  linkedin	   : "himankjn"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://www.linkedin.com/in/himankjn"
+      # url: "https://www.linkedin.com/in/himankjn"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
