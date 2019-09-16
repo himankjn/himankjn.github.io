@@ -111,6 +111,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Bangalore, Karnataka"
+  github	   : "https://github.com/himankjn"
   email            :
   links:
     - label: "Email"
