@@ -29,12 +29,15 @@ feature_row:
 
 I'm an aspiring Data Scientist who is proficient at Inferential Statistics, Exploratory Analysis, Data Visualization and Machine Learning.
 
+Languages I know:
+* Python
+* R
+* C/C++
+* Java
+* HTML
+* Shiny(R)
+* SQL
+
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
