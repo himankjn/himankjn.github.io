@@ -19,7 +19,7 @@ feature_row:
   - image_path: /images/firstyear.jpg
     excerpt: "B-tech Sem I"
   - image_path: /images/me.jpg
-    image_caption: "[Insta](https://unsplash.com/)"
+    image_caption: "[Insta](https://www.instagram.com/himank_jn)"
     excerpt: "PC:[Arjun Singh](https://www.instagram.com/arjun_ooo)"
     url: "#test-link"
     btn_label: "Read More"
