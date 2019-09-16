@@ -2,6 +2,7 @@
 title: "Splash Page"
 layout: splash
 permalink: /splash/
+author_profile: True
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
