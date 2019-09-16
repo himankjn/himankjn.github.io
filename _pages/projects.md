@@ -4,7 +4,7 @@ permalink: /projects/
 title: "Data Science Projects"
 author_profile: true
 header:
-  image: "/images/collosium.jpg"
+  image: "/images/col.jpg"
 ---
 
 {% include base_path %}
