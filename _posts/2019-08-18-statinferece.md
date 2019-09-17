@@ -1,5 +1,5 @@
 ---
-title: "Statistical Inference"
+title: "Inferential Statistics"
 date: 2019-08-30
 tags: [r, stats, statistical inference, inferential statistics ,hypothesis testing, t test,distribution, likelihood ratio,normal,gaussian,poisson,binomial, chi square,probability, bayes]
 header:
