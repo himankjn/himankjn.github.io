@@ -45,3 +45,40 @@ header:
 
 
 [Getting and Cleaning Data](https://github.com/himankjn/Data_Cleaning_in_R)
+
+
+### Documentations and Publications:
+[JHU Data Science Capstone](http://rpubs.com/himank369123/JHUCAPSTONE)
+
+
+[JHU Milestone Report](http://rpubs.com/himank369123/JHUCapstoneMilestone)
+
+
+[Mtcars App Presentation](http://rpubs.com/himank369123/shinymtcars)
+
+
+[Human Activity Recognition Analysis](http://rpubs.com/himank369123/HAR)
+
+
+[Leaflet map](http://rpubs.com/himank369123/leaflet)
+
+
+[Damage Due to Weather Events](http://rpubs.com/himank369123/476562)
+
+
+[Image Compression (SVD)](http://rpubs.com/himank369123/476208)
+
+
+[Basics of Statistics and R](http://rpubs.com/himank369123/STATSnR)
+
+
+[Statistical Inference](http://rpubs.com/himank369123/StatInference)
+
+
+[Regression Mtcars](http://rpubs.com/himank369123/mtcarsregression)
+
+
+[Effect of Vitamin C on Tooth Growth of Guinea Pigs](http://rpubs.com/himank369123/VitamicCguinea)
+
+
+[CLT and Exponential Distribution](http://rpubs.com/himank369123/CLTnExp)
