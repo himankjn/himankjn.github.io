@@ -8,7 +8,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /images/black.jpg
-  name: "Himank Jain"
   actions:
     - label: "Linkedin"
       url: "https://www.linkedin.com/in/himankjn/"
@@ -30,6 +29,9 @@ feature_row:
     btn_class: "btn--primary"
 
 ---
+Name: Himank Jain
+Occupation: UG Student Pursuing major in Data Science
+Hobbies: *Swimming, Esports, Trying to make sense of the world :D*
 
 I'm an aspiring Data Scientist who is proficient at Inferential Statistics, Exploratory Analysis, Data Visualization and Machine Learning.
 
