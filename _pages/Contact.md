@@ -10,6 +10,6 @@ header:
   overlay_image: /images/black.jpg
   actions:
     - label: "Contact"
-      url: "himankjn.github.io/form"
+      url: "https://himankjn.github.io/form"
 excerpt: "Send me your Name, Email and Message. And I'll get back!"      
 ---
