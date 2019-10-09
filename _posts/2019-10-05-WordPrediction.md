@@ -9,6 +9,11 @@ excerpt: "JHU Capstone Data Science"
 
 ###  This post follows the John Hopkins University Capstone Project which required the application of knowledge gained from 9 other courses by the specialization [JHU Data Science](https://www.coursera.org/specializations/jhu-data-science).
 
+
+### Below is a demo image from the app
+<img src="{{ site.url }}{{ site.baseurl}}/images/capstonejhu/appdemo.png" alt="Demo Word Prediction">
+
+
 Around the world, people are spending an increasing amount of time on their mobile devices for email, social networking, banking and a whole range of other activities. But typing on mobile devices can be a serious pain. SwiftKey builds a smart keyboard that makes it easier for people to type on their mobile devices. One cornerstone of their smart keyboard is predictive text models. When someone types:
 
 I went to the
@@ -23,7 +28,3 @@ Click this  [link](https://himankjn.shinyapps.io/JHU_Capstone/) to go to Predict
 Click this [link](http://rpubs.com/himank369123/JHUCAPSTONE) to go to pitch deck for the application and project.
 
 Click this [link](https://github.com/himankjn/JHU-NLP-Capstone) for source files and other resources of the project on **Github**
-
-
-### Below is a demo image from the app
-<img src="{{ site.url }}{{ site.baseurl}}/images/capstonejhu/appdemo.png" alt="Demo Word Prediction">
