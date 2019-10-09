@@ -20,11 +20,10 @@ intro:
   - excerpt: ' I always thought someone needs to step up. Then i realized, I am Someone!'
 feature_row:
   - image_path: /images/dapose.jpg
-    excerpt: "Paradise"
   - image_path: /images/paradiseback.jpg
     image_caption: "[Insta](https://www.instagram.com/himank_jn)"
   - image_path: /images/shedback.jpg  
-  
+
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
