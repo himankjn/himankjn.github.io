@@ -1,7 +1,7 @@
 ---
 title: "Contact Me Here:"
 layout: splash
-permalink: /about/
+permalink: /contact/
 author_profile: True
 date: 2016-03-23T11:48:41-04:00
 header:
