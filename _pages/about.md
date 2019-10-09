@@ -1,5 +1,5 @@
 ---
-title: "Himank Jain"
+title: "About Me"
 layout: splash
 permalink: /about/
 author_profile: True
@@ -13,8 +13,7 @@ header:
       url: "https://www.linkedin.com/in/himankjn/"
     - label: "Github"
       url: "https://github.com/himankjn"
-    - image_path: /images/me.jpg
-  caption: "Photo : [**Instagram**](https://www.instagram.com/himank_jn)"
+      
 excerpt: "Just Trying To Make Sense Of The World"
 intro:
   - excerpt: ' I always thought someone needs to step up. Then i realized, I am Someone!'
