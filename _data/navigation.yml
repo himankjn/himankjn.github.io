@@ -7,7 +7,7 @@ main:
   - title: "Projects"
     url: /projects/
   - title: "Contact Me"
-    url: /form/
+    url: /Contact/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
