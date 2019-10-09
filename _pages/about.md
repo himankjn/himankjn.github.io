@@ -19,11 +19,11 @@ excerpt: "Just Trying To Make Sense Of The World"
 intro:
   - excerpt: ' I always thought someone needs to step up. Then i realized, I am Someone!'
 feature_row:
-  - image_path: /images/firstyear.jpg
-    excerpt: "B-tech Sem I"
-  - image_path: /images/me.jpg
+  - image_path: /images/dapose.jpg
+    excerpt: "Paradise"
+  - image_path: /images/paradiseback.jpg
     image_caption: "[Insta](https://www.instagram.com/himank_jn)"
-    excerpt: "PC:[Arjun Singh](https://www.instagram.com/arjun_ooo)"
+    
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
