@@ -33,7 +33,7 @@ Name: Himank Jain
 
 Occupation: UG Student Pursuing major in Data Science
 
-Hobbies: *Swimming, Esports, Trying to make sense of the world :D*
+Hobbies: **Swimming, Esports, Trying to make sense of the world :D**
 
 I'm an aspiring Data Scientist who is proficient at Inferential Statistics, Exploratory Analysis, Data Visualization and Machine Learning.
 
