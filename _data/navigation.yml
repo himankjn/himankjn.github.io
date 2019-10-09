@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Home"
+    url: "https://himankjn.github.io/"
   - title: "About me"
     url: /about/
   - title: "Projects"
