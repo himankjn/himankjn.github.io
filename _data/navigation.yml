@@ -6,7 +6,7 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
-  - title: "Contact"
+  - title: "Contact Me"
     url: /form/
 
   # - title: "About"
