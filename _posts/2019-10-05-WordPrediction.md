@@ -11,7 +11,7 @@ excerpt: "JHU Capstone Data Science"
 
 
 ### Below is a demo image from the app
-<img src="{{ site.url }}{{ site.baseurl}}/images/capstonejhu/appdemo.png" alt="Demo Word Prediction">
+![Word Prediction Demo]({{ site.url }}/images/capstonejhu/appdemo.png)
 
 
 Around the world, people are spending an increasing amount of time on their mobile devices for email, social networking, banking and a whole range of other activities. But typing on mobile devices can be a serious pain. SwiftKey builds a smart keyboard that makes it easier for people to type on their mobile devices. One cornerstone of their smart keyboard is predictive text models. When someone types:
