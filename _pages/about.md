@@ -14,7 +14,7 @@ header:
   caption: "Photo : [**Instagram**](https://www.instagram.com/himank_jn)"
 excerpt: "Not Just Another Guy Next Door"
 intro:
-  - excerpt: ' I always thought someone needs to step up. Then i realised, I am Someone!'
+  - excerpt: ' I always thought someone needs to step up. Then i realized, I am Someone!'
 feature_row:
   - image_path: /images/firstyear.jpg
     excerpt: "B-tech Sem I"
