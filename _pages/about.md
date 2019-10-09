@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Himank Jain"
 layout: splash
 permalink: /about/
 author_profile: True
@@ -15,7 +15,7 @@ header:
       url: "https://github.com/himankjn"
     - image_path: /images/me.jpg
   caption: "Photo : [**Instagram**](https://www.instagram.com/himank_jn)"
-excerpt: "Not Just Another Guy Next Door"
+excerpt: "Just Trying To Make Sense Of The World"
 intro:
   - excerpt: ' I always thought someone needs to step up. Then i realized, I am Someone!'
 feature_row:
@@ -29,11 +29,11 @@ feature_row:
     btn_class: "btn--primary"
 
 ---
-Name: Himank Jain
+**Name**: Himank Jain
 
-Occupation: UG Student Pursuing major in Data Science
+**Occupation**: UG Student Pursuing major in Data Science
 
-Hobbies: **Swimming, Esports, Trying to make sense of the world :D**
+**Hobbies**: Swimming, Esports, Travelling
 
 I'm an aspiring Data Scientist who is proficient at Inferential Statistics, Exploratory Analysis, Data Visualization and Machine Learning.
 
