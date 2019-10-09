@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 layout: splash
 permalink: /about/
 author_profile: True
@@ -11,6 +11,9 @@ header:
   actions:
     - label: "Linkedin"
       url: "https://www.linkedin.com/in/himankjn/"
+    - label: "Github"
+      url: "https://github.com/himankjn"
+    - image_path: /images/me.jpg
   caption: "Photo : [**Instagram**](https://www.instagram.com/himank_jn)"
 excerpt: "Not Just Another Guy Next Door"
 intro:
