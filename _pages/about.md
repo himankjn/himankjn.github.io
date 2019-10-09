@@ -13,7 +13,8 @@ header:
       url: "https://www.linkedin.com/in/himankjn/"
     - label: "Github"
       url: "https://github.com/himankjn"
-      
+    - label: "Quora"
+      url: "https://www.quora.com/profile/Himank-Jain-7"  
 excerpt: "Just Trying To Make Sense Of The World"
 intro:
   - excerpt: ' I always thought someone needs to step up. Then i realized, I am Someone!'
