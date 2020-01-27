@@ -19,7 +19,7 @@ header:
       url: "https://steamcommunity.com/id/desolate36912"
 excerpt: "Just Trying To Make Sense Of The World"
 intro:
-  - excerpt: 'If The Cosmic Phone Rings ... Don't Answer'
+  - excerpt: "If The Cosmic Phone Rings ... Don't Answer"
 feature_row:
   - image_path: /images/dapose.jpg
   - image_path: /images/paradiseback.jpg
