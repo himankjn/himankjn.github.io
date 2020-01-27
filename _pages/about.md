@@ -15,9 +15,12 @@ header:
       url: "https://github.com/himankjn"
     - label: "Quora"
       url: "https://www.quora.com/profile/Himank-Jain-7"  
+    - label: "Steam"
+      url: "https://steamcommunity.com/id/desolate36912"        
 excerpt: "Just Trying To Make Sense Of The World"
 intro:
-  - excerpt: ' I always thought someone needs to step up. Then i realized, I am Someone!'
+  - excerpt: 'If The Cosmic Phone Rings ... Don't Answer
+  - Nick Pope'
 feature_row:
   - image_path: /images/dapose.jpg
   - image_path: /images/paradiseback.jpg
@@ -33,11 +36,11 @@ feature_row:
 
 **Occupation**: UG Student Pursuing major in Data Science
 
-**Hobbies**: Swimming, Esports, Travelling
+**Hobbies**: Swimming,Cosmology, Esports & Travelling
 
-I'm an aspiring Data Scientist who is proficient at Inferential Statistics, Exploratory Analysis, Data Visualization and Machine Learning.
+**I'm an aspiring Data Scientist who is proficient at Inferential Statistics, Exploratory Analysis, Data Visualization and Machine Learning.**
 
-Languages I know:
+Programmin Languages I know:
 * Python
 * R
 * C/C++
