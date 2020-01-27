@@ -6,8 +6,8 @@ author_profile: true
 header:
   image: "/images/data.jpg"
 ---
-### Apps
-[Predicting the next word in a string](https://himankjn.shinyapps.io/JHU_Capstone/)   
+### Apps        ### Lang
+[Next Word Prediction](https://himankjn.shinyapps.io/JHU_Capstone/)   
 
 
 [Exploratory Analyis on Mtcars](https://himankjn.shinyapps.io/ShinyApp/)

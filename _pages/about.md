@@ -31,7 +31,7 @@ feature_row:
 
 **Occupation**: UG Student Pursuing major in Data Science
 
-**Hobbies**: Swimming, Esports, Travelling
+**Hobbies**: Swimming,Cosmology Esports, Travelling
 
 *I'm an aspiring Data Scientist who is proficient at Inferential Statistics, Exploratory Analysis, Data Visualization and Machine Learning.*
 
