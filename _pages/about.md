@@ -1,5 +1,5 @@
 ---
-title: "Hola!"
+title: "¡Hola!"
 layout: splash
 permalink: /about/
 author_profile: True
@@ -21,7 +21,6 @@ excerpt: "Just Trying To Make Sense Of The World"
 intro:
   - excerpt: "If The Cosmic Phone Rings ... Don't Answer"
 feature_row:
-
 
     url: "#test-link"
     btn_label: "Read More"
