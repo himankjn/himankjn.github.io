@@ -21,9 +21,6 @@ excerpt: "Just Trying To Make Sense Of The World"
 intro:
   - excerpt: "If The Cosmic Phone Rings ... Don't Answer"
 feature_row:
-  - image_path: /images/dapose.jpg
-  - image_path: /images/paradiseback.jpg
-    image_caption: "[Insta](https://www.instagram.com/himank_jn)"
   - image_path: /images/shedback.jpg  
 
     url: "#test-link"
@@ -37,7 +34,7 @@ feature_row:
 
 **Hobbies**: Swimming, Esports, Travelling
 
-**I'm an aspiring Data Scientist who is proficient at Inferential Statistics, Exploratory Analysis, Data Visualization and Machine Learning.**
+*I'm an aspiring Data Scientist who is proficient at Inferential Statistics, Exploratory Analysis, Data Visualization and Machine Learning.*
 
 Programming Languages I know:
 * Python
