@@ -1,5 +1,5 @@
 ---
-title: "¡Hola!"
+title: "Hola!"
 layout: splash
 permalink: /about/
 author_profile: True
