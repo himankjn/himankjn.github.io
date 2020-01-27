@@ -21,7 +21,7 @@ excerpt: "Just Trying To Make Sense Of The World"
 intro:
   - excerpt: "If The Cosmic Phone Rings ... Don't Answer"
 feature_row:
-  - image_path: /images/shedback.jpg  
+
 
     url: "#test-link"
     btn_label: "Read More"
