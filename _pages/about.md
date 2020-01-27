@@ -1,5 +1,5 @@
 ---
-title: "Hola!"
+title: "¡Hola!"
 layout: splash
 permalink: /about/
 author_profile: True
@@ -17,7 +17,7 @@ header:
       url: "https://www.quora.com/profile/Himank-Jain-7"  
 excerpt: "Just Trying To Make Sense Of The World"
 intro:
-  - excerpt: ' I always thought someone needs to step up. Then i realized, I am Someone!'
+  - excerpt: ' If The Cosmic Phone Rings ... Don't Answer'
 feature_row:
   - image_path: /images/dapose.jpg
   - image_path: /images/paradiseback.jpg
@@ -33,11 +33,11 @@ feature_row:
 
 **Occupation**: UG Student Pursuing major in Data Science
 
-**Hobbies**: Swimming, Esports, Travelling
+**Hobbies**: Swimming, Cosmology,Esports, Travelling
 
 I'm an aspiring Data Scientist who is proficient at Inferential Statistics, Exploratory Analysis, Data Visualization and Machine Learning.
 
-Languages I know:
+Programming Languages I know:
 * Python
 * R
 * C/C++
