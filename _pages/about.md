@@ -37,9 +37,9 @@ feature_row:
 
 **Hobbies**: Swimming, Esports, Travelling
 
-I'm an aspiring Data Scientist who is proficient at Inferential Statistics, Exploratory Analysis, Data Visualization and Machine Learning.
+**I'm an aspiring Data Scientist who is proficient at Inferential Statistics, Exploratory Analysis, Data Visualization and Machine Learning.**
 
-Languages I know:
+Programming Languages I know:
 * Python
 * R
 * C/C++
