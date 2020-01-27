@@ -17,7 +17,7 @@ header:
       url: "https://www.quora.com/profile/Himank-Jain-7"  
 excerpt: "Just Trying To Make Sense Of The World"
 intro:
-  - excerpt: ' If The Cosmic Phone Rings ... Don't Answer'
+  - excerpt: ' I always thought someone needs to step up. Then i realized, I am Someone!'
 feature_row:
   - image_path: /images/dapose.jpg
   - image_path: /images/paradiseback.jpg
