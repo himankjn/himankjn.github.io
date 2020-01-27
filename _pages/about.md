@@ -15,6 +15,8 @@ header:
       url: "https://github.com/himankjn"
     - label: "Quora"
       url: "https://www.quora.com/profile/Himank-Jain-7"  
+    - label: "Steam"
+      url: "https://steamcommunity.com/id/desolate36912"
 excerpt: "Just Trying To Make Sense Of The World"
 intro:
   - excerpt: ' I always thought someone needs to step up. Then i realized, I am Someone!'
