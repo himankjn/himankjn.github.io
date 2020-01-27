@@ -6,7 +6,7 @@ author_profile: true
 header:
   image: "/images/data.jpg"
 ---
-### Apps        ### Lang
+### Apps                    Languages
 [Next Word Prediction](https://himankjn.shinyapps.io/JHU_Capstone/)   
 
 
