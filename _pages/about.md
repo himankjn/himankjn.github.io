@@ -33,7 +33,7 @@ feature_row:
 
 **Hobbies**: Swimming,Cosmology, Esports, Travelling
 
-*I'm an aspiring Data Scientist who is proficient at Statistics & Probability,Linear Algebra, Exploratory Data Analysis,Statisical inference, Predictive Modelling, Time Series Analysis, Data Visualization and Machine Learning.*
+*I'm an aspiring Data Scientist who is proficient at Statistics & Probability,Linear Algebra, Exploratory Data Analysis,Statisical inference, Predictive Modelling, Time Series Analysis,Computer Vision,Natual Language Processing,Data Visualization and Machine Learning.*
 
 Programming Languages I know:
 * Python
