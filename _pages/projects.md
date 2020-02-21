@@ -8,7 +8,8 @@ header:
 ---
 
 ### NLP:
-[Sentimental Analysis: Mobile Reviews][https://github.com/himankjn/Sentimental_Analysis_Mobile_Reviews]
+
+[Sentimental Analysis: Mobile Reviews](https://github.com/himankjn/Sentimental_Analysis_Mobile_Reviews)
 
 
 [JHU: Next Word Prediction](https://github.com/himankjn/JHU-NLP-Capstone)
