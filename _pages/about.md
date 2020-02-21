@@ -17,7 +17,7 @@ header:
       url: "https://www.quora.com/profile/Himank-Jain-7"  
     - label: "Steam"
       url: "https://steamcommunity.com/id/desolate36912"
-excerpt: "Just Trying To Make Sense Of The World"
+excerpt: "Trying To Make Sense Of Our Universe!"
 intro:
   - excerpt: "If The Cosmic Phone Rings ... Don't Answer"
 feature_row:
@@ -31,9 +31,9 @@ feature_row:
 
 **Occupation**: UG Student Pursuing major in Data Science
 
-**Hobbies**: Swimming,Cosmology Esports, Travelling
+**Hobbies**: Swimming,Cosmology, Esports, Travelling
 
-*I'm an aspiring Data Scientist who is proficient at Inferential Statistics, Exploratory Analysis, Data Visualization and Machine Learning.*
+*I'm an aspiring Data Scientist who is proficient at Statistics & Probability,Linear Algebra, Exploratory Data Analysis,Statisical inference, Predictive Modelling, Time Series Analysis, Data Visualization and Machine Learning.*
 
 Programming Languages I know:
 * Python
