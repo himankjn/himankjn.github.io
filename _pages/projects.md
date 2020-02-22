@@ -52,15 +52,19 @@ header:
 [Like Unlike Perceptron Classification](https://github.com/himankjn/Like-Unlike-Perceptron-Classification)
 
 
-### Network:
 
-[Social Network Analysis](https://github.com/himankjn/Social_Network_Analysis)
-
-### Apps
+### Apps:
 [Next Word Prediction](https://himankjn.shinyapps.io/JHU_Capstone/)   
 
 
 [Interactive App for EDA & Regression on Mtcars](https://himankjn.shinyapps.io/ShinyApp/)
+
+### Certifications:
+
+[University of Michigan: Applied Data Science](https://www.coursera.org/account/accomplishments/specialization/D2CZBXV89EUW)
+
+[John Hopkins University: Data Science specialization](https://www.coursera.org/account/accomplishments/specialization/H4KCQAGN3QSV)
+
 
 ### Documentations and Publications:
 [JHU Data Science Capstone](http://rpubs.com/himank369123/JHUCAPSTONE)
