@@ -33,10 +33,10 @@
 
   **Occupation**: Developer
 
-  **Achievements**: 
+  <!-- **Achievements**: 
   • Secured AIR 525 in GATE 2021
   • Received Silver medal from JGI for achieving 2nd rank in B-tech.
-  • Secured 2nd Rank in Regional Level Abacus Competition in Ambala.
+  • Secured 2nd Rank in Regional Level Abacus Competition in Ambala. -->
 
   **Hobbies**: Swimming, Coding, Cosmology, Travelling and .... a never ending passion for PC Games
 
