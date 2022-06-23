@@ -31,7 +31,7 @@ feature_row:
 ---
 **Name**: Himank Jain
 
-**Occupation**: UG Student Pursuing major in Data Science
+**Occupation**: Developer
 
 **Achievements**: 
 * Secured AIR 525 in GATE 2021.
