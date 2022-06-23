@@ -31,11 +31,14 @@ feature_row:
 
 **Occupation**: UG Student Pursuing major in Data Science
 
-**Hobbies**: Swimming,Cosmology, Esports, Travelling
+**Achievements**: 
+Secured AIR 525 in GATE 2021.
+Received Silver medal from JGI for achieving 2nd rank in B-tech.
+Secured 2nd Rank in Regional Level Abacus Competition in Ambala.
 
-*I'm an aspiring Data Scientist who is proficient at Statistics & Probability,Linear Algebra, Exploratory Data Analysis,Statisical inference, Predictive Modelling, Time Series Analysis,Computer Vision,Natual Language Processing,Data Visualization and Machine Learning.*
+**Hobbies**: Swimming, Coding, Cosmology, Travelling and .... a never ending passion for PC Games.
 
-Programming Languages I know:
+Programming Languages:
 * Python
 * R
 * C/C++
