@@ -20,7 +20,7 @@ title                    : "Himank Jain"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Himank Jain"
-description              : "Aspiring Data Scientist.\n And Animal Rights Activist"
+description              : "Software Developer with a passion for PC games"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Himank Jain"
   avatar           : "/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Aspiring Data Scientist.\n And Animal Rights Activist"
+  bio              : "Software Developer with a passion for PC games"
   location         : "Bangalore, Karnataka"
   email            : "himank369123@gmail.com"
   github	   : "himankjn"
