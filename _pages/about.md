@@ -13,8 +13,10 @@ header:
       url: "https://www.linkedin.com/in/himankjn/"
     - label: "Github"
       url: "https://github.com/himankjn"
-    - label: "Quora"
-      url: "https://www.quora.com/profile/Himank-Jain-7"  
+    - label: "InterviewBit"
+      url: "https://www.interviewbit.com/profile/himank-jain_782"
+    - label: "Leetcode"
+      url: "https://leetcode.com/himankjn/"      
     - label: "Steam"
       url: "https://steamcommunity.com/id/desolate36912"
 excerpt: "Trying To Make Sense Of Our Universe!"
@@ -32,9 +34,9 @@ feature_row:
 **Occupation**: UG Student Pursuing major in Data Science
 
 **Achievements**: 
-Secured AIR 525 in GATE 2021.
-Received Silver medal from JGI for achieving 2nd rank in B-tech.
-Secured 2nd Rank in Regional Level Abacus Competition in Ambala.
+* Secured AIR 525 in GATE 2021.
+* Received Silver medal from JGI for achieving 2nd rank in B-tech.
+* Secured 2nd Rank in Regional Level Abacus Competition in Ambala.
 
 **Hobbies**: Swimming, Coding, Cosmology, Travelling and .... a never ending passion for PC Games.
 
