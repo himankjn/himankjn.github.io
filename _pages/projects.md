@@ -1,11 +1,19 @@
 ---
 layout: archive
 permalink: /projects/
-title: "Data Science Projects"
+title: "Projects"
 author_profile: true
 header:
   image: "/images/data.jpg"
 ---
+
+### Developement:
+
+[JobSeek](https://github.com/himankjn/JobSeek)
+
+[Calculator using DevOps](https://github.com/himankjn/Calculator_DEVOPS)
+
+[Railway Ticket Reservation System](https://github.com/himankjn/Railway-Reservation-System)
 
 ### NLP:
 
