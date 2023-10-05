@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0ecaba20.css",
-    "main.js": "/static/js/main.9bb7b5b8.js",
+    "main.js": "/static/js/main.2bbf0912.js",
     "static/js/787.67b99310.chunk.js": "/static/js/787.67b99310.chunk.js",
     "static/media/PostmanLogo.png": "/static/media/PostmanLogo.91690925a2050c5fa76c.png",
     "static/media/JenkinsLogo.png": "/static/media/JenkinsLogo.e8a316862341297c8459.png",
@@ -23,11 +23,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/index.html",
     "main.0ecaba20.css.map": "/static/css/main.0ecaba20.css.map",
-    "main.9bb7b5b8.js.map": "/static/js/main.9bb7b5b8.js.map",
+    "main.2bbf0912.js.map": "/static/js/main.2bbf0912.js.map",
     "787.67b99310.chunk.js.map": "/static/js/787.67b99310.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ecaba20.css",
-    "static/js/main.9bb7b5b8.js"
+    "static/js/main.2bbf0912.js"
   ]
 }
