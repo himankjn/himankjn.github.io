@@ -38,7 +38,7 @@ const Sidebar = () => {
     <div className="nav-bar" id="sidebar" onMouseEnter={toggleSidebar} onMouseLeave={toggleSidebar}>
       <Link 
         className="logo"
-        to="/"
+        to=""
         onClick={() => setShowNav(false)}>
         <img src={HLogo} alt="Logo" />
         <p className='centered-text'>Himank</p>
@@ -47,7 +47,7 @@ const Sidebar = () => {
         <NavLink 
           exact="true"
           activeclassname="active"
-          to="/"
+          to=""
           onClick={() => setShowNav(false)}>
           <div className='icon-container'>
             <FontAwesomeIcon icon={faHome} color="#4d4d4e" />
@@ -57,7 +57,7 @@ const Sidebar = () => {
         <NavLink 
           activeclassname="active"
           className="about-link"
-          to="/about"
+          to="about"
           onClick={() => setShowNav(false)}>
           <div className='icon-container'>
             <FontAwesomeIcon icon={faUser} color="#4d4d4e" />
@@ -67,7 +67,7 @@ const Sidebar = () => {
         <NavLink
           activeclassname="active"
           className="portfolio-link"
-          to="/portfolio"
+          to="portfolio"
           onClick={() => setShowNav(false)}
         >
           <div className='icon-container'>
@@ -78,7 +78,7 @@ const Sidebar = () => {
         <NavLink
           activeclassname="active"
           className="contact-link"
-          to="/contact"
+          to="contact"
           onClick={() => setShowNav(false)}
         >
            <div className='icon-container'> 
