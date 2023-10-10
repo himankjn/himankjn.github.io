@@ -1,0 +1,10 @@
+.resume-container{
+    border: 3px solid #fff;
+}
+
+.resume-child{
+    width: 40%;
+    float: left;
+    padding: 20px;
+    border: 1px solid
+}
